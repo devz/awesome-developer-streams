@@ -42,4 +42,4 @@ You'll need to have a GitHub account - you can [register here](https://github.co
 
 Sometimes, the maintainers of awesome-developer-streams will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-developer-streams list guidelines. We're always happy to help in any way we can.
 
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
